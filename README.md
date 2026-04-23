@@ -2,7 +2,7 @@
   <h1>Hi there, I'm Aditya Srinivas Ganti 👋</h1>
   
   <a href="https://github.com/aditya-srinivas-ganti">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Entry-Level+SOC+Analyst;Cybersecurity+Enthusiast;Blue+Team+Trainee" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Entry-Level+SOC+Analyst;Cybersecurity+Enthusiast;ML+%26+Digital+Forensics;Blue+Team+Trainee" alt="Typing SVG" />
   </a>
 </div>
 
@@ -10,7 +10,7 @@
 
 ### 🛡️ About Me
 - 🔭 I’m currently looking for roles as a **SOC Analyst L1 / Blue Team trainee**.
-- 🔍 My focus is on **Security Monitoring, Alert Analysis, and Network Traffic Inspection**.
+- 🔍 My focus is on **Security Monitoring, Incident Response, Digital Forensics, and ML Applications**.
 - 🎓 Pursuing a Bachelor of Technology in Computer Science Engineering at Guru Nanak Institute of Technology.
 - 📫 How to reach me: **reach.adityasrinivas@gmail.com**
 
@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
 </div>
 
@@ -35,10 +36,12 @@
 
 <br/>
 
-### 🚀 Featured Cybersecurity Projects
+### 🚀 Featured Projects & Research
 
 | Project | Description |
 | :--- | :--- |
+| **☢️ A Dual-Stage Framework for Cavity Detection in Nuclear Materials** | Developed an advanced computational imaging framework leveraging machine learning models (ESRGAN and Swin-UNet) for precise defect detection and technical research. |
+| **🔍 Digital Cybercrime Reconstructor** | Engineered a digital forensics tool designed to reconstruct and analyze cybercrime scenarios, aiding in incident response and digital evidence preservation. |
 | **🍯 Honeypot Implementation** | Simulated vulnerable network services to attract, log, and analyze unauthorized access attempts and attacker behavior. |
 | **🕵️‍♂️ DNS Spoofing Detection System** | Monitored DNS traffic and validated query-response mappings to identify potential man-in-the-middle attacks. |
 | **🔐 Secure Chat Application (E2EE)** | Developed a secure chat application implementing end-to-end encryption, focusing on secure key exchange and data integrity. |
