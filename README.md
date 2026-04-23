@@ -1,5 +1,5 @@
 # Hey, I'm Aditya 👋
-Cybersecurity student. I build offensive tools, detect attacks, and occasionally make AI do weird things with medical images.
+Cybersecurity student. I build offensive tools, detect attacks, and occasionally make AI do weird things with nuclear images.
 
 I'm a final-year CS student at GNIT Hyderabad focused on **SOC operations**, **blue teaming**, and **penetration testing**. I've completed three cybersecurity internships, built tools that actually do things, and I'm hunting for an internship where I can work on real threats with people who care about getting it right.
 
@@ -12,7 +12,7 @@ Reconstructs cybercrime timelines from digital artifacts — log files, memory d
 `Python · Forensic Artifact Parsing · Timeline Analysis`
 
 **AI Cavity Detection (ESRGAN + Swin-UNet)** `AI/ML` `In Progress`
-Dental cavity detection pipeline using ESRGAN for super-resolution and Swin-UNet for segmentation. Explores ML in medical imaging security and data integrity.
+Nuclear cavity detection pipeline using ESRGAN for super-resolution and Swin-UNet for segmentation. Explores ML in Nuclear Cavity imaging security and data integrity.
 `Python · PyTorch · ESRGAN · Swin-UNet`
 
 **DNS Spoofing Detection System** `Blue Team`
